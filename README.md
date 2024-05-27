@@ -1,2 +1,2 @@
 # Test-Mena
-sample repo
+sample repository
